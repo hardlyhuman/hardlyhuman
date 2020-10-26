@@ -1,4 +1,6 @@
-### Hi there 👋
+## Kon'nichiwa 👋, I'm Sri Harsha Gajavalli
+
+#### I am currently leading AI Research & Development team at [AutomationEdge](https://www.automationedge.com)
 
 <!--
 **hardlyhuman/hardlyhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
