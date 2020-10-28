@@ -1,6 +1,9 @@
-## Kon'nichiwa 👋, I'm Sri Harsha Gajavalli
+## Kon'nichiwa 👋, I'm [Sri Harsha Gajavalli][website]
 
 #### I am currently leading AI Research & Development team at [AutomationEdge](https://www.automationedge.com)
+
+[![Website](https://img.shields.io/website?label=sriharshagajavalli.com&style=for-the-badge&url=https%3A%2F%2Fsriharshagajavalli.com)](https://sriharshagajavalli.com)
+
 
 <br />
 
