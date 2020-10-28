@@ -18,6 +18,12 @@
 
 <br />
 
+- 🔭 I’m currently working on MLOps and NLP at [AutomationEdge.ai](https://www.automationedge.ai)
+- 🌱 I’m currently learning Machine Teaching.
+- 👯 I’m looking to collaborate on upskilling programs and open source projects in the field of AI/ML.
+
+- ⚡ Fun fact: I write a lot. Check them out on my [instagram](https://instagram.com/thewanderpen) page.
+
 <!--
 **hardlyhuman/hardlyhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
