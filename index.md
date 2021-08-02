@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Kon'nichiwa 👋, I'm [Sri Harsha Gajavalli][website]
 
-You can use the [editor on GitHub](https://github.com/hardlyhuman/hardlyhuman/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### I am currently leading AI Research & Development team at [AutomationEdge](https://www.automationedge.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsriharshagajavalli.com)](https://sriharshagajavalli.com)
 
-### Markdown
+- 🔭 I’m currently working on MLOps and NLP at [AutomationEdge.ai](https://www.automationedge.ai)
+- 🌱 I’m currently learning Machine Teaching.
+- 👯 I’m looking to collaborate on upskilling programs and open source projects in the field of AI/ML.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ⚡ Fun fact: I write a lot. Check them out on my [instagram](https://instagram.com/thewanderpen) page.
 
-```markdown
-Syntax highlighted code block
+<br />
 
-# Header 1
-## Header 2
-### Header 3
+### Connect with me:
 
-- Bulleted
-- List
+[<img align="left" alt="sriharshagajavalli" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+[<img align="left" alt="sriharshagajavalli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="sriharshagajavalli | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sriharshagajavalli | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="thewanderpen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagramm]
 
-1. Numbered
-2. List
+<br />
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<!--
+**hardlyhuman/hardlyhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here are some ideas to get you started:
 
-### Jekyll Themes
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hardlyhuman/hardlyhuman/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+[website]: https://sriharshagajavalli.com
+[twitter]: https://twitter.com/Sri_HarshaG
+[instagram]: https://instagram.com/sriharshagajavalli
+[instagramm]: https://instagram.com/thewanderpen
+[linkedin]: https://linkedin.com/in/sriharshagajavalli
