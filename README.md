@@ -1,10 +1,10 @@
 ## Kon'nichiwa 👋, I'm [Sri Harsha Gajavalli][website]
-
-#### I am currently leading AI Research & Development team at [AutomationEdge](https://www.automationedge.com)
-
+<!---
+#### I am currently leading AI Research & Development team at [AutomationEdge]
+--->
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fsriharshagajavalli.com)](https://sriharshagajavalli.com)
 
-- 🔭 I’m currently working on MLOps and NLP at [AutomationEdge.ai](https://www.automationedge.ai)
+- 🔭 I’m currently working on MLOps and NLP. <!-- at [AutomationEdge.ai](https://www.automationedge.ai) -->
 - 🌱 I’m currently learning Machine Teaching.
 - 👯 I’m looking to collaborate on upskilling programs and open source projects in the field of AI/ML.
 
